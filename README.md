@@ -48,8 +48,8 @@ jupyter notebook
 Open the project notebook and run all the cells.
 
 ## Results
-The model achieves an accuracy of **XX%** on the test data.
+The model achieves an accuracy of **93%** on the test data.
 
 ## Author
-**Your Name**
-GitHub: [yourusername](https://github.com/yourusername)
+Muhammad Haris
+GitHub:HabibAi47
